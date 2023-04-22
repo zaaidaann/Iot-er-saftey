@@ -40,4 +40,4 @@ git clone https://github.com/zaaidaann/iot-accident-alert.git
 Contributions are always welcome! If you would like to contribute to this project, please feel free to fork the repository and create a pull request with your changes.
 Credits
 
-This project was created by Your Name.
+This project was created by Aidan.
