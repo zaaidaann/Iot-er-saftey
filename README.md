@@ -14,9 +14,13 @@ But don't just take our word for it - check out the code for yourself and see ho
 # Features
 
     Real-time tracking of vehicles
+
     Accident detection and notification to emergency services
+
     Severity detection of impact
+
     Status detection of passengers
+
     Anti-theft circuit
 
 # Installation
